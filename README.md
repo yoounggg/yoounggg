@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Chaeyoung's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-##😊반갑습니다😊
+## 😊반갑습니다😊 <br>
 김채영이라고 합니다! <br>
 백엔드 개발자가 되기 위해 공부하고 있습니다 <br>
 잘 부탁드립니다! <br>
