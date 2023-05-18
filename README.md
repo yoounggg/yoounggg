@@ -5,6 +5,9 @@
 백엔드 개발자가 되기 위해 공부하고 있습니다 <br>
 잘 부탁드립니다! <br>
 
+<br>
+<br>
+
 ## 🛠️기술 스택🛠️
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
